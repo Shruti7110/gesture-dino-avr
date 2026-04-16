@@ -3,6 +3,7 @@
 > Wrist gesture control glove using ATmega328P, ADXL345 accelerometer, and Edge Impulse ML — flick your wrist to jump, tilt to duck, control Chrome Dino hands-free. Bare metal AVR C firmware + Python inference pipeline.
 
 ---
+![alt text](https://github.com/Shruti7110/gesture-dino-avr/blob/main/gesture-dino-avr-introduction-img.png)
 
 ## What Is This?
 
